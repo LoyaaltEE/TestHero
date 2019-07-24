@@ -1,0 +1,15 @@
+{
+  "name": "3349734a98d30011bb202f47342601d3-5bd37426a58d985901ebc2f8a01aff071c6a5731",
+  "version": "1.0.0",
+  "description": "This bot example is the combined work of members of the Discord.js and Idiot Guide's community. It attempts to provide a \"complete\" starter example of a simple, one-file bot, with comments and information to properly understand each part and how it works.",
+  "main": "trivia.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
